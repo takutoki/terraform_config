@@ -1,2 +1,2 @@
-# terrafotm_config
+# terraform_config
 aws IaC
